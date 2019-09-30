@@ -5,7 +5,7 @@ MSG="""
 
     </head>
     <body>
-        <div class='container' style='margin: 0 auto; justify-contenet: center; max-width: 25vw;'>
+        <div class='container' style='margin: 0 auto; justify-contenet: center; 
             <div class='job-image' style='text-align: center;'>
                 <img style='height: 10vh;' src='https://userinfo.surfsara.nl/sites/default/files/SURFsara_0.jpg'/>
             </div>
